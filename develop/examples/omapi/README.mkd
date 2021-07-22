@@ -1,0 +1,8 @@
+This is simple example how to use [android.se.omapi](https://developer.android.com/reference/android/se/omapi/package-summary)
+
+Original example: [open-mobile-api-sample](https://github.com/seek-for-android/open-mobile-api-sample)
+
+
+Example output: 
+
+![](./output_SEService.png)
